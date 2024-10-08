@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\bin\Debug\net6.0\game_1.exe
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\bin\Debug\net6.0\game_1.deps.json
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\bin\Debug\net6.0\game_1.runtimeconfig.json
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\bin\Debug\net6.0\game_1.dll
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\bin\Debug\net6.0\game_1.pdb
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.AssemblyInfo.cs
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.dll
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\refint\game_1.dll
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.pdb
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\game_1.genruntimeconfig.cache
+C:\Users\user\Desktop\24ИС-11-1\Kim\game_1\obj\Debug\net6.0\ref\game_1.dll
